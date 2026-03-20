@@ -1,0 +1,1 @@
+@tailwind base;\n@tailwind components;\n@tailwind utilities;\n\nbody {\n  font-family: 'Inter', sans-serif;\n  margin: 0;\n  padding: 0;\n  background-color: #f3f4f6;\n  color: #111827;\n}
